@@ -1,0 +1,21 @@
+.app{
+  min-height: 100vh;
+  background: rgb(98, 98, 182);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tweet{
+  height: 300px;
+  width: 250px;
+  background: white;
+  border-radius: 30px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.tweetMsg{
+  margin: 10px 50px 10px 50px;
+}
